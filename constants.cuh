@@ -1,0 +1,14 @@
+#ifndef CUDAMANDEL_CONSTANTS
+#define CUDAMANDEL_CONSTANTS
+
+#define SIZE     512
+#define COLOR_LOOP 40
+
+#define Z_FACTOR 50.
+#define C_FACTOR 255.
+#define F_FACTOR 255.
+
+
+
+
+#endif //CUDAMANDEL_CONSTANTS
